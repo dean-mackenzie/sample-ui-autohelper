@@ -1,0 +1,7 @@
+helpers\EmailHelperTest.class
+helpers\ConfigHelperTest.class
+helpers\pdfHelperTest.class
+helpers\JSONHelperTest.class
+infrastructure\DriversFactoryTest.class
+infrastructure\KWebDriverTest.class
+helpers\DateHelperTest.class
