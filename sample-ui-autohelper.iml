@@ -11,9 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.bitbucket.cowwoc:diff-match-patch:1.1" level="project" />
-    <orderEntry type="library" name="Maven: net.coobird:thumbnailator:0.4.5" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.16" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe:config:1.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:2.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:2.0.5" level="project" />

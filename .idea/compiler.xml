@@ -6,15 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fcautomationlib" />
-        <module name="fcl-ui-automation" />
-        <module name="KPDFCompare" />
+        <module name="sample-ui-autohelper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fcautomationlib" target="1.8" />
-      <module name="fcl-ui-automation" target="1.8" />
-      <module name="KPDFCompare" target="1.5" />
+      <module name="sample-ui-autohelper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
